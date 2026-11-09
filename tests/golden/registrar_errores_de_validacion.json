@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ana Pérez",
+    "legajo": "40111",
+    "email": "ana@ejemplo.edu",
+    "carrera": "Tecnicatura en Programación",
+    "tipo": "certificado",
+    "prioridad": "alta",
+    "titulo": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "descripcion": "",
+    "estado": "pendiente",
+    "responsable": "Alumnos",
+    "fecha": "<FECHA>"
+  }
+]

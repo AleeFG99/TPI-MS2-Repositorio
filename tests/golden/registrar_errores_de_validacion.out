@@ -1,0 +1,128 @@
+##### SESION 1 #####
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: Nombre del estudiante: Legajo: Email: Carrera: Tipo (certificado/equivalencia/examen/beca/otro): Prioridad (alta/media/baja): Título: Descripción: Error: el nombre no puede estar vacío
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: Nombre del estudiante: Legajo: Email: Carrera: Tipo (certificado/equivalencia/examen/beca/otro): Prioridad (alta/media/baja): Título: Descripción: Error: el legajo debe ser numérico
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: Nombre del estudiante: Legajo: Email: Carrera: Tipo (certificado/equivalencia/examen/beca/otro): Prioridad (alta/media/baja): Título: Descripción: Error: email inválido
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: Nombre del estudiante: Legajo: Email: Carrera: Tipo (certificado/equivalencia/examen/beca/otro): Prioridad (alta/media/baja): Título: Descripción: Error: email inválido
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: Nombre del estudiante: Legajo: Email: Carrera: Tipo (certificado/equivalencia/examen/beca/otro): Prioridad (alta/media/baja): Título: Descripción: Error: la carrera no puede estar vacía
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: Nombre del estudiante: Legajo: Email: Carrera: Tipo (certificado/equivalencia/examen/beca/otro): Prioridad (alta/media/baja): Título: Descripción: Error: tipo inválido
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: Nombre del estudiante: Legajo: Email: Carrera: Tipo (certificado/equivalencia/examen/beca/otro): Prioridad (alta/media/baja): Título: Descripción: Error: prioridad inválida
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: Nombre del estudiante: Legajo: Email: Carrera: Tipo (certificado/equivalencia/examen/beca/otro): Prioridad (alta/media/baja): Título: Descripción: Error: el título no puede estar vacío
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: Nombre del estudiante: Legajo: Email: Carrera: Tipo (certificado/equivalencia/examen/beca/otro): Prioridad (alta/media/baja): Título: Descripción: Error: el título no puede superar los 80 caracteres
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: Nombre del estudiante: Legajo: Email: Carrera: Tipo (certificado/equivalencia/examen/beca/otro): Prioridad (alta/media/baja): Título: Descripción: Solicitud #1 registrada. Responsable asignado: Alumnos
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: --- REPORTE DE SOLICITUDES ---
+Total: 1
+Por estado:
+  pendiente: 1
+  en_proceso: 0
+  resuelta: 0
+  cerrada: 0
+  rechazada: 0
+Por tipo:
+  certificado: 1
+  equivalencia: 0
+  examen: 0
+  beca: 0
+  otro: 0
+Por prioridad:
+  alta: 1
+  media: 0
+  baja: 0
+Urgentes abiertas:
+  #1 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -> Alumnos
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: Hasta luego

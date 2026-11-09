@@ -1,0 +1,68 @@
+##### SESION 1 #####
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: Nombre del estudiante: Legajo: Email: Carrera: Tipo (certificado/equivalencia/examen/beca/otro): Prioridad (alta/media/baja): Título: Descripción: Solicitud #1 registrada. Responsable asignado: Alumnos
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: Nombre del estudiante: Legajo: Email: Carrera: Tipo (certificado/equivalencia/examen/beca/otro): Prioridad (alta/media/baja): Título: Descripción: Solicitud #2 registrada. Responsable asignado: Secretaría Académica
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: Nombre del estudiante: Legajo: Email: Carrera: Tipo (certificado/equivalencia/examen/beca/otro): Prioridad (alta/media/baja): Título: Descripción: Solicitud #3 registrada. Responsable asignado: Bedelía
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: Nombre del estudiante: Legajo: Email: Carrera: Tipo (certificado/equivalencia/examen/beca/otro): Prioridad (alta/media/baja): Título: Descripción: Solicitud #4 registrada. Responsable asignado: Bienestar Estudiantil
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: Nombre del estudiante: Legajo: Email: Carrera: Tipo (certificado/equivalencia/examen/beca/otro): Prioridad (alta/media/baja): Título: Descripción: Solicitud #5 registrada. Responsable asignado: Mesa de Entradas
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: Filtrar por (1) estado (2) tipo (3) prioridad (4) texto: Valor: #1 | certificado | alta | pendiente | Alumnos | Certificado regular (Ana Pérez, legajo 40111)
+#2 | equivalencia | media | pendiente | Secretaría Académica | Certificado regular (Ana Pérez, legajo 40111)
+#3 | examen | baja | pendiente | Bedelía | Certificado regular (Ana Pérez, legajo 40111)
+#4 | beca | alta | pendiente | Bienestar Estudiantil | Certificado regular (Ana Pérez, legajo 40111)
+#5 | otro | alta | pendiente | Mesa de Entradas | Certificado regular (Ana Pérez, legajo 40111)
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: Hasta luego

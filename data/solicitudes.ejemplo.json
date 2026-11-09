@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nombre": "Lucía Fernández",
+    "legajo": "40125",
+    "email": "lucia.fernandez@ejemplo.edu",
+    "carrera": "Tecnicatura en Programación",
+    "tipo": "certificado",
+    "prioridad": "media",
+    "titulo": "Certificado de alumno regular",
+    "descripcion": "Necesito el certificado para presentar en mi trabajo.",
+    "estado": "pendiente",
+    "responsable": "Alumnos",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id": 2,
+    "nombre": "Martín Gómez",
+    "legajo": "40388",
+    "email": "martin.gomez@ejemplo.edu",
+    "carrera": "Tecnicatura en Programación",
+    "tipo": "equivalencia",
+    "prioridad": "alta",
+    "titulo": "Equivalencia de Matemática I",
+    "descripcion": "Aprobada en otra institución, adjunto programa.",
+    "estado": "en_proceso",
+    "responsable": "Secretaría Académica",
+    "fecha": "2026-10-02"
+  }
+]

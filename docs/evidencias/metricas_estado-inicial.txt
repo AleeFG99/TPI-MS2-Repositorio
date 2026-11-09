@@ -1,0 +1,20 @@
+archivo                        LOC  funcs
+app/gestor.js                  246      9
+app/main.js                    111      2
+app/modelo.js                   21      2
+TOTAL                          378     13
+
+Funciones más críticas (ordenadas por complejidad):
+función                             LOC  params   CC
+main.js:main                        101       0   28
+gestor.js:registrar                  53       8   20
+gestor.js:cambiarEstado              32       2   19
+gestor.js:buscar                     39       2   16
+gestor.js:reporte                    45       0   15
+gestor.js:asignar                    24       2    7
+
+Máx. LOC por función : 101
+Máx. parámetros      : 9
+Máx. complejidad (CC): 28
+CC promedio          : 9.1
+Funciones con CC > 10: 5

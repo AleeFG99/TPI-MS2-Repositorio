@@ -1,0 +1,121 @@
+##### SESION 1 #####
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: --- REPORTE DE SOLICITUDES ---
+Total: 2
+Por estado:
+  pendiente: 1
+  en_proceso: 1
+  resuelta: 0
+  cerrada: 0
+  rechazada: 0
+Por tipo:
+  certificado: 1
+  equivalencia: 1
+  examen: 0
+  beca: 0
+  otro: 0
+Por prioridad:
+  alta: 1
+  media: 1
+  baja: 0
+Urgentes abiertas:
+  #2 Equivalencia de Matemática I -> Secretaría Académica
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: Nombre del estudiante: Legajo: Email: Carrera: Tipo (certificado/equivalencia/examen/beca/otro): Prioridad (alta/media/baja): Título: Descripción: Solicitud #3 registrada. Responsable asignado: Alumnos
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: Nombre del estudiante: Legajo: Email: Carrera: Tipo (certificado/equivalencia/examen/beca/otro): Prioridad (alta/media/baja): Título: Descripción: Solicitud #4 registrada. Responsable asignado: Alumnos
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: ID de la solicitud: Nuevo estado (pendiente/en_proceso/resuelta/cerrada/rechazada): Error: transición no permitida: pendiente -> resuelta
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: ID de la solicitud: Nuevo estado (pendiente/en_proceso/resuelta/cerrada/rechazada): Estado de la solicitud #4 actualizado: pendiente -> en_proceso
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: ID de la solicitud: Nuevo estado (pendiente/en_proceso/resuelta/cerrada/rechazada): Estado de la solicitud #4 actualizado: en_proceso -> resuelta
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: ID de la solicitud: Nuevo estado (pendiente/en_proceso/resuelta/cerrada/rechazada): Estado de la solicitud #4 actualizado: resuelta -> cerrada
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: --- REPORTE DE SOLICITUDES ---
+Total: 4
+Por estado:
+  pendiente: 2
+  en_proceso: 1
+  resuelta: 0
+  cerrada: 1
+  rechazada: 0
+Por tipo:
+  certificado: 3
+  equivalencia: 1
+  examen: 0
+  beca: 0
+  otro: 0
+Por prioridad:
+  alta: 3
+  media: 1
+  baja: 0
+Urgentes abiertas:
+  #2 Equivalencia de Matemática I -> Secretaría Académica
+  #3 Urgente A -> Alumnos
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: Hasta luego

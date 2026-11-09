@@ -1,0 +1,53 @@
+# Salida de: npm run comparar  (estado-inicial vs de2b13d, que es el commit final de código = estado-refactorizado)
+
+Comportamiento externo: 11 escenarios, todos idénticos entre estado-inicial y de2b13d.
+
+=== Métricas de estado-inicial ===
+archivo                        LOC  funcs
+app/gestor.js                  246      9
+app/main.js                    111      2
+app/modelo.js                   21      2
+TOTAL                          378     13
+
+Funciones más críticas (ordenadas por complejidad):
+función                             LOC  params   CC
+main.js:main                        101       0   28
+gestor.js:registrar                  53       8   20
+gestor.js:cambiarEstado              32       2   19
+gestor.js:buscar                     39       2   16
+gestor.js:reporte                    45       0   15
+gestor.js:asignar                    24       2    7
+
+Máx. LOC por función : 101
+Máx. parámetros      : 9
+Máx. complejidad (CC): 28
+CC promedio          : 9.1
+Funciones con CC > 10: 5
+
+=== Métricas de de2b13d ===
+archivo                        LOC  funcs
+app/consola.js                 120      9
+app/consultas.js                41      4
+app/errores.js                  23      4
+app/main.js                     38      2
+app/modelo.js                   82      8
+app/repositorio.js              77      9
+app/servicio.js                 50      5
+app/validaciones.js             52      6
+TOTAL                          483     47
+
+Funciones más críticas (ordenadas por complejidad):
+función                             LOC  params   CC
+repositorio.js:verificarRegistro      9       1    8
+consola.js:ejecutar                  23       0    6
+repositorio.js:cargar                19       0    6
+main.js:main                         17       1    3
+modelo.js:asignarResponsable         10       1    3
+validaciones.js:email                 7       1    3
+
+Máx. LOC por función : 23
+Máx. parámetros      : 4
+Máx. complejidad (CC): 8
+CC promedio          : 1.9
+Funciones con CC > 10: 0
+

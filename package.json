@@ -1,0 +1,15 @@
+{
+  "name": "gestion-solicitudes-academicas",
+  "version": "1.0.0",
+  "description": "TPI Metodología de Sistemas II - Gestión de Solicitudes Académicas (consola, Node.js)",
+  "type": "module",
+  "license": "MIT",
+  "private": true,
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "start": "node app/main.js",
+    "test": "node --test",
+    "test:cov": "node --test --experimental-test-coverage",
+    "comparar": "node scripts/comparar-versiones.mjs"
+  }
+}

@@ -1,0 +1,47 @@
+##### SESION 1 #####
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: Nombre del estudiante: Legajo: Email: Carrera: Tipo (certificado/equivalencia/examen/beca/otro): Prioridad (alta/media/baja): Título: Descripción: Solicitud #1 registrada. Responsable asignado: Alumnos
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: --- REPORTE DE SOLICITUDES ---
+Total: 1
+Por estado:
+  pendiente: 1
+  en_proceso: 0
+  resuelta: 0
+  cerrada: 0
+  rechazada: 0
+Por tipo:
+  certificado: 1
+  equivalencia: 0
+  examen: 0
+  beca: 0
+  otro: 0
+Por prioridad:
+  alta: 1
+  media: 0
+  baja: 0
+Urgentes abiertas:
+  #1 Certificado regular -> Alumnos
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: Hasta luego

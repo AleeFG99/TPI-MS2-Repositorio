@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ana Martinez",
+    "legajo": "1",
+    "email": "ana@example.com",
+    "carrera": "Ingles",
+    "tipo": "certificado",
+    "prioridad": "media",
+    "titulo": "Terciario",
+    "descripcion": "Para precentar en un Instituto",
+    "estado": "en_proceso",
+    "responsable": "Alumnos",
+    "fecha": "2026-11-08"
+  },
+  {
+    "id": 2,
+    "nombre": "Ana Martinez",
+    "legajo": "1",
+    "email": "ana@example.com",
+    "carrera": "Ingles",
+    "tipo": "certificado",
+    "prioridad": "media",
+    "titulo": "Terciario",
+    "descripcion": "cerificado de alumno regular",
+    "estado": "en_proceso",
+    "responsable": "Alumnos",
+    "fecha": "2026-11-08"
+  },
+  {
+    "id": 3,
+    "nombre": "ale farfan",
+    "legajo": "1",
+    "email": "ale@example.com",
+    "carrera": "ingles",
+    "tipo": "certificado",
+    "prioridad": "media",
+    "titulo": "terciario",
+    "descripcion": "certificado de alumno regular",
+    "estado": "pendiente",
+    "responsable": "Alumnos",
+    "fecha": "2026-11-08"
+  },
+  {
+    "id": 4,
+    "nombre": "ale farfan",
+    "legajo": "1",
+    "email": "ale@example.com",
+    "carrera": "ingles",
+    "tipo": "certificado",
+    "prioridad": "media",
+    "titulo": "terciario",
+    "descripcion": "certificado de alunmo regular",
+    "estado": "en_proceso",
+    "responsable": "Alumnos",
+    "fecha": "2026-11-08"
+  }
+]

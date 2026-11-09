@@ -1,0 +1,101 @@
+##### SESION 1 #####
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: Nombre del estudiante: Legajo: Email: Carrera: Tipo (certificado/equivalencia/examen/beca/otro): Prioridad (alta/media/baja): Título: Descripción: Solicitud #3 registrada. Responsable asignado: Bienestar Estudiantil
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: Filtrar por (1) estado (2) tipo (3) prioridad (4) texto: Valor: #1 | certificado | media | pendiente | Alumnos | Certificado de alumno regular (Lucía Fernández, legajo 40125)
+#3 | beca | baja | pendiente | Bienestar Estudiantil | Beca de transporte (Bruno Díaz, legajo 50222)
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: Filtrar por (1) estado (2) tipo (3) prioridad (4) texto: Valor: #2 | equivalencia | alta | en_proceso | Secretaría Académica | Equivalencia de Matemática I (Martín Gómez, legajo 40388)
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: Filtrar por (1) estado (2) tipo (3) prioridad (4) texto: Valor: #1 | certificado | media | pendiente | Alumnos | Certificado de alumno regular (Lucía Fernández, legajo 40125)
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: Filtrar por (1) estado (2) tipo (3) prioridad (4) texto: Valor: #2 | equivalencia | alta | en_proceso | Secretaría Académica | Equivalencia de Matemática I (Martín Gómez, legajo 40388)
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: Filtrar por (1) estado (2) tipo (3) prioridad (4) texto: Valor: #1 | certificado | media | pendiente | Alumnos | Certificado de alumno regular (Lucía Fernández, legajo 40125)
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: Filtrar por (1) estado (2) tipo (3) prioridad (4) texto: Valor: #3 | beca | baja | pendiente | Bienestar Estudiantil | Beca de transporte (Bruno Díaz, legajo 50222)
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: Filtrar por (1) estado (2) tipo (3) prioridad (4) texto: Valor: #2 | equivalencia | alta | en_proceso | Secretaría Académica | Equivalencia de Matemática I (Martín Gómez, legajo 40388)
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: Filtrar por (1) estado (2) tipo (3) prioridad (4) texto: Valor: No se encontraron solicitudes
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: Filtrar por (1) estado (2) tipo (3) prioridad (4) texto: Valor: Error: criterio inválido
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: Hasta luego

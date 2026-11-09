@@ -1,0 +1,13 @@
+# Pruebas de caracterización (11 escenarios de caja negra) ejecutadas en cada paso del refactoring
+# Método: se ejecutan los escenarios sobre cada commit y se comparan con tests/golden (grabado sobre estado-inicial)
+
+[19669dc] feat: sistema base de Gestión de Solicitudes Académicas (versión inicial)
+    -> 11/11 escenarios idénticos al golden master
+[db1e1e2] refactor(R1): Extract Method en GestorSolicitudes (validar, área, transición, filtrar, c
+    -> 11/11 escenarios idénticos al golden master
+[0cea406] refactor(R2,R3): Move Method (resumen, esUrgenteAbierta, puedePasarA) e Introduce Paramete
+    -> 11/11 escenarios idénticos al golden master
+[e0aaf85] refactor(R4-R8): enums y tablas de reglas, excepciones en vez de códigos, Extract Class (
+    -> 11/11 escenarios idénticos al golden master
+[de2b13d] fix(code-review): escritura atómica, validación de la forma del JSON y id sin spread (ha
+    -> 11/11 escenarios idénticos al golden master

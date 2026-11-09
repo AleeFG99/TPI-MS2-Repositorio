@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "nombre": "Lucía Fernández",
+    "legajo": "40125",
+    "email": "lucia.fernandez@ejemplo.edu",
+    "carrera": "Tecnicatura en Programación",
+    "tipo": "certificado",
+    "prioridad": "media",
+    "titulo": "Certificado de alumno regular",
+    "descripcion": "Necesito el certificado para presentar en mi trabajo.",
+    "estado": "pendiente",
+    "responsable": "Alumnos",
+    "fecha": "<FECHA>"
+  },
+  {
+    "id": 2,
+    "nombre": "Martín Gómez",
+    "legajo": "40388",
+    "email": "martin.gomez@ejemplo.edu",
+    "carrera": "Tecnicatura en Programación",
+    "tipo": "equivalencia",
+    "prioridad": "alta",
+    "titulo": "Equivalencia de Matemática I",
+    "descripcion": "Aprobada en otra institución, adjunto programa.",
+    "estado": "en_proceso",
+    "responsable": "Secretaría Académica",
+    "fecha": "<FECHA>"
+  },
+  {
+    "id": 3,
+    "nombre": "Ana Pérez",
+    "legajo": "40111",
+    "email": "ana@ejemplo.edu",
+    "carrera": "Tecnicatura en Programación",
+    "tipo": "certificado",
+    "prioridad": "alta",
+    "titulo": "Urgente A",
+    "descripcion": "Para el trabajo",
+    "estado": "pendiente",
+    "responsable": "Alumnos",
+    "fecha": "<FECHA>"
+  },
+  {
+    "id": 4,
+    "nombre": "Ana Pérez",
+    "legajo": "40111",
+    "email": "ana@ejemplo.edu",
+    "carrera": "Tecnicatura en Programación",
+    "tipo": "certificado",
+    "prioridad": "alta",
+    "titulo": "Urgente B",
+    "descripcion": "Para el trabajo",
+    "estado": "cerrada",
+    "responsable": "Alumnos",
+    "fecha": "<FECHA>"
+  }
+]

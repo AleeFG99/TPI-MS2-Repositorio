@@ -1,0 +1,38 @@
+##### SESION 1 #####
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: --- REPORTE DE SOLICITUDES ---
+Total: 0
+Por estado:
+  pendiente: 0
+  en_proceso: 0
+  resuelta: 0
+  cerrada: 0
+  rechazada: 0
+Por tipo:
+  certificado: 0
+  equivalencia: 0
+  examen: 0
+  beca: 0
+  otro: 0
+Por prioridad:
+  alta: 0
+  media: 0
+  baja: 0
+Urgentes abiertas:
+  (ninguna)
+
+=== Gestión de Solicitudes Académicas ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar solicitudes
+5. Reporte
+0. Salir
+Opción: Hasta luego

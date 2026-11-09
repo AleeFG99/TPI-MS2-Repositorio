@@ -1,0 +1,6 @@
+# Pruebas de caracterización ejecutadas sobre estado-inicial (ANTES del refactoring)
+# Comando: npm test   (node --test, Node v22.23.4)
+# commit: 19669dc (tag estado-inicial)
+# tests 11
+# pass 11
+# fail 0

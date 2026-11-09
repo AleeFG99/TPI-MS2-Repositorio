@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ana Pérez",
+    "legajo": "40111",
+    "email": "ana@ejemplo.edu",
+    "carrera": "Tecnicatura en Programación",
+    "tipo": "certificado",
+    "prioridad": "alta",
+    "titulo": "Certificado regular",
+    "descripcion": "Para el trabajo",
+    "estado": "pendiente",
+    "responsable": "Alumnos",
+    "fecha": "<FECHA>"
+  },
+  {
+    "id": 2,
+    "nombre": "Ana Pérez",
+    "legajo": "40111",
+    "email": "ana@ejemplo.edu",
+    "carrera": "Tecnicatura en Programación",
+    "tipo": "equivalencia",
+    "prioridad": "media",
+    "titulo": "Certificado regular",
+    "descripcion": "Para el trabajo",
+    "estado": "pendiente",
+    "responsable": "Secretaría Académica",
+    "fecha": "<FECHA>"
+  },
+  {
+    "id": 3,
+    "nombre": "Ana Pérez",
+    "legajo": "40111",
+    "email": "ana@ejemplo.edu",
+    "carrera": "Tecnicatura en Programación",
+    "tipo": "examen",
+    "prioridad": "baja",
+    "titulo": "Certificado regular",
+    "descripcion": "Para el trabajo",
+    "estado": "pendiente",
+    "responsable": "Bedelía",
+    "fecha": "<FECHA>"
+  },
+  {
+    "id": 4,
+    "nombre": "Ana Pérez",
+    "legajo": "40111",
+    "email": "ana@ejemplo.edu",
+    "carrera": "Tecnicatura en Programación",
+    "tipo": "beca",
+    "prioridad": "alta",
+    "titulo": "Certificado regular",
+    "descripcion": "Para el trabajo",
+    "estado": "pendiente",
+    "responsable": "Bienestar Estudiantil",
+    "fecha": "<FECHA>"
+  },
+  {
+    "id": 5,
+    "nombre": "Ana Pérez",
+    "legajo": "40111",
+    "email": "ana@ejemplo.edu",
+    "carrera": "Tecnicatura en Programación",
+    "tipo": "otro",
+    "prioridad": "alta",
+    "titulo": "Certificado regular",
+    "descripcion": "Para el trabajo",
+    "estado": "pendiente",
+    "responsable": "Mesa de Entradas",
+    "fecha": "<FECHA>"
+  }
+]

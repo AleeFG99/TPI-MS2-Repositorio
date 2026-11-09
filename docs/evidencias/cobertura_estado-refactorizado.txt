@@ -1,0 +1,29 @@
+# Cobertura. Comando: npm run test:cov   (node --test --experimental-test-coverage, Node v22.23.4)
+# start of coverage report
+# ----------------------------------------------------------------------------
+# file                        | line % | branch % | funcs % | uncovered lines
+# ----------------------------------------------------------------------------
+# app                         |        |          |         | 
+#  consola.js                 | 100.00 |   100.00 |  100.00 | 
+#  consultas.js               | 100.00 |   100.00 |  100.00 | 
+#  errores.js                 | 100.00 |   100.00 |  100.00 | 
+#  main.js                    | 100.00 |    88.89 |  100.00 | 
+#  modelo.js                  | 100.00 |   100.00 |  100.00 | 
+#  repositorio.js             |  98.04 |    96.15 |  100.00 | 99-100
+#  servicio.js                | 100.00 |   100.00 |  100.00 | 
+#  validaciones.js            | 100.00 |   100.00 |  100.00 | 
+# tests                       |        |          |         | 
+#  archivo-danado.test.js     | 100.00 |   100.00 |   87.50 | 
+#  comportamiento-cli.test.js | 100.00 |   100.00 |  100.00 | 
+#  consola.test.js            | 100.00 |   100.00 |  100.00 | 
+#  consultas.test.js          | 100.00 |   100.00 |  100.00 | 
+#  escenarios.js              | 100.00 |   100.00 |  100.00 | 
+#  helpers.js                 | 100.00 |    90.00 |  100.00 | 
+#  modelo.test.js             | 100.00 |   100.00 |  100.00 | 
+#  repositorio.test.js        | 100.00 |   100.00 |  100.00 | 
+#  servicio.test.js           | 100.00 |   100.00 |  100.00 | 
+#  validaciones.test.js       | 100.00 |   100.00 |  100.00 | 
+# ----------------------------------------------------------------------------
+# all files                   |  99.82 |    98.90 |   99.43 | 
+# ----------------------------------------------------------------------------
+# end of coverage report

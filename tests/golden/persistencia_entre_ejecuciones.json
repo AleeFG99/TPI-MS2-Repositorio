@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ana Pérez",
+    "legajo": "40111",
+    "email": "ana@ejemplo.edu",
+    "carrera": "Tecnicatura en Programación",
+    "tipo": "certificado",
+    "prioridad": "alta",
+    "titulo": "Certificado regular",
+    "descripcion": "Para el trabajo",
+    "estado": "en_proceso",
+    "responsable": "Laura Gil",
+    "fecha": "<FECHA>"
+  },
+  {
+    "id": 2,
+    "nombre": "Ana Pérez",
+    "legajo": "40111",
+    "email": "ana@ejemplo.edu",
+    "carrera": "Tecnicatura en Programación",
+    "tipo": "beca",
+    "prioridad": "alta",
+    "titulo": "Segunda sesión",
+    "descripcion": "Para el trabajo",
+    "estado": "pendiente",
+    "responsable": "Bienestar Estudiantil",
+    "fecha": "<FECHA>"
+  }
+]

@@ -1,0 +1,13 @@
+# Archivo de datos dañado: comportamiento ANTES (estado-inicial) vs DESPUÉS (estado-refactorizado)
+# Archivo de partida: data/solicitudes.ejemplo.json (2 solicitudes) truncado a propósito.
+
+## ANTES (estado-inicial)
+contenido del archivo ANTES de abrir la app: 827 bytes (JSON truncado)
+Opción: Nombre del estudiante: Legajo: Email: Carrera: Tipo (certificado/equivalencia/examen/beca/otro): Prioridad (alta/media/baja): Título: Descripción: Solicitud #1 registrada. Responsable asignado: Alumnos
+Opción: Hasta luego
+contenido del archivo DESPUÉS de usar la app: 311 bytes; solicitudes legibles: 1
+
+## DESPUÉS (estado-refactorizado)
+contenido del archivo ANTES de abrir la app: 827 bytes (JSON truncado)
+Error: no se pudo leer el archivo de datos (data/solicitudes.json): está dañado o tiene un formato inválido; no se modificó
+contenido del archivo DESPUÉS de usar la app: 827 bytes; solicitudes legibles: 0 (el archivo sigue dañado, sin tocar)
